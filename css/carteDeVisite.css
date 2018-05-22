@@ -37,7 +37,7 @@ ul, h2
 li
 {
     color: rgb(145, 142, 142);
-    list-style-type: none;
+    list-style-type: "/";
     display: inline;
 }
 .phone
